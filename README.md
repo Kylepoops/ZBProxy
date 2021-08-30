@@ -1,4 +1,4 @@
-# ZBProxy
+# ZBProxy 
 🚀Easy proxy your data at the best privacy, giving you better experience enjoying Minecraft.  
 Support multiplatform because of Golang\'s attributes.  
 一键搭建Minecraft加速IP软件，作者[B站@贴吧蜡油](https://space.bilibili.com/404017926 "点我前往空间")。  
